@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Tangerine);
+
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to left, rgba(7,27,82,1)12%, rgba(0,128,128,1)82%);
+  min-height: 100%;
+  padding-bottom: 50px;
+}
+
+.pTitle {
+  font-family: 'Tangerine', serif;
+  font-weight: 200;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+.app-footer {
+  text-align: center;
+  margin-top: 40px;
+  padding: 10px;
+  background-color: whitesmoke;
+  position: fixed;
+  bottom: 0%;
+  width: 100vw;
+}
+
